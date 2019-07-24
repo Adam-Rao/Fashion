@@ -1,0 +1,5 @@
+<resources>
+    <style name="Bacon" parent="Theme.Bacon">
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+    </style>
+</resources>

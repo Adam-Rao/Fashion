@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "220723366540",
+    "firebase_url": "https://fashion-1aff8.firebaseio.com",
+    "project_id": "fashion-1aff8",
+    "storage_bucket": "fashion-1aff8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220723366540:android:2eb59dd67998b738",
+        "android_client_info": {
+          "package_name": "ke.co.hardware.fashion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220723366540-jj2r49pb3v5vrtm85v20ccqd3u32lf6n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ke.co.hardware.fashion",
+            "certificate_hash": "1bf0d433646e87225876ee9b8e5032dd630808a2"
+          }
+        },
+        {
+          "client_id": "220723366540-i82d4cvfgdfg5u3rnfvggd6ool7b5p56.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjLVQCN8Es9eRRgL6LENdCM53aJkgaqWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220723366540-i82d4cvfgdfg5u3rnfvggd6ool7b5p56.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,65 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <group android:checkableBehavior="single">
+
+        <item
+
+                android:id="@+id/makeup"
+
+                android:icon="@drawable/makeup"
+
+                android:title="Make up" />
+
+
+        <item
+
+                android:id="@+id/clothes"
+
+                android:icon="@drawable/clothes"
+
+                android:title="Clothes" />
+
+        <item
+
+                android:id="@+id/shoes"
+
+                android:icon="@drawable/shoes"
+
+                android:title="Shoes" />
+        <item
+
+                android:id="@+id/hair"
+
+                android:icon="@drawable/hair"
+
+                android:title="Hairstyle" />
+        <item
+
+                android:id="@+id/spectacles"
+
+                android:icon="@drawable/spectacle"
+
+                android:title="Spectacles" />
+
+        <item
+
+                android:id="@+id/help"
+
+                android:icon="@drawable/help"
+
+                android:title="Help" />
+
+    </group>
+
+    <item android:title="Sub menu">
+        <menu >
+            <group android:checkableBehavior="single">
+                <item android:title="Shopping"
+                      android:icon="@drawable/shopping"/>
+            </group>
+        </menu>
+    </item>
+
+</menu>
